@@ -84,7 +84,7 @@ const App = () => {
               </p>
               <div className="text-slate-500 text-base leading-relaxed font-light text-justify space-y-4">
                 <p>
-                  Fokus riset saya adalah implementasi sistem cerdas untuk menjawab tantangan standarisasi kualitas pada rantai pasok pangan. Dengan mengintegrasikan prinsip-prinsip fisika instrumentasi <span className="font-semibold italic italic italic"> berbasis Internet of Things</span>, saya berupaya menghadirkan solusi pengujian yang bersifat objektif, non-invasif, dan akurat secara real-time.
+                  Fokus riset saya adalah implementasi sistem cerdas untuk menjawab tantangan standarisasi kualitas pada rantai pasok pangan. Dengan mengintegrasikan prinsip-prinsip fisika instrumentasi berbasis <span className="font-semibold italic italic italic"> Internet of Things</span>, saya berupaya menghadirkan solusi pengujian yang bersifat objektif, non-invasif, dan akurat secara real-time.
                 </p>
                 <p>
                   Melalui pendekatan metodologi yang komprehensif, riset ini bertujuan untuk meminimalisir subjektivitas manusia dalam penilaian kualitas komoditas protein, guna mendukung terciptanya ekosistem ketahanan pangan nasional yang berbasis data.
