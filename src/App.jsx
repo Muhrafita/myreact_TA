@@ -80,7 +80,7 @@ const App = () => {
 
             <div className="space-y-5 relative pl-5 border-l-4 border-blue-600 flex-grow">
               <p className="text-lg text-slate-700 font-semibold leading-snug">
-                Saya <span className="text-[#001F3F] font-bold underline decoration-blue-500 underline-offset-4">{userName}</span>, mahasiswa akhir di bawah bimbingan Ibu Elvan Yuniarti M.Si, Program Studi Fisika UIN Syarif Hidayatullah Jakarta.
+                Saya <span className="text-[#001F3F] font-bold underline decoration-blue-500 underline-offset-4">{userName}</span>, mahasiswa akhir Program Studi Fisika UIN Syarif Hidayatullah Jakarta di bawah bimbingan Ibu Elvan Yuniarti M.Si.
               </p>
               <div className="text-slate-500 text-base leading-relaxed font-light text-justify space-y-4">
                 <p>
