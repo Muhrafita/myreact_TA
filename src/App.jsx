@@ -113,7 +113,7 @@ const App = () => {
             <div className="space-y-4 mb-8">
               {[
                 { label: "Homogenitas Sampel", desc: "Daging sapi dengan potongan, berat (±100g), dan dimensi yang seragam untuk konsistensi data." },
-                { label: "Kontrol Kualitas Day-0", desc: "Sampel daging segar pasca-pemotongan untuk pemetaan degradasi data awal." },
+                { label: "Kontrol Kualitas Day-0", desc: "21 Sampel daging segar pasca-pemotongan untuk pemetaan degradasi data awal." },
                 { label: "Aksesibilitas Lokasi", desc: "Izin penempatan modul IoT secara non-intervensif di area cold storage selama 7 hari." },
                 { label: "Integritas Data", desc: "Pendampingan logistik dan transparansi proses penyimpanan selama masa akuisisi data." }
               ].map((item, i) => (
